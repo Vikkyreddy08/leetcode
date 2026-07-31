@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vikkyreddy08/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vikkyreddy08/leetcode/tree/master/0012-integer-to-roman) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikkyreddy08/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vikkyreddy08/leetcode/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vikkyreddy08/leetcode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vikkyreddy08/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -101,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
