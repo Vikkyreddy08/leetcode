@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vikkyreddy08/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Vikkyreddy08/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vikkyreddy08/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vikkyreddy08/leetcode/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
