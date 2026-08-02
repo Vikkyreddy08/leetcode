@@ -1,5 +1,5 @@
-class Solution(object):
-    def shuffle(self, nums, n):
+class Solution:
+    def shuffle(self, nums: List[int], n: int) -> List[int]:
         ans = []
 
         for i in range(n):
