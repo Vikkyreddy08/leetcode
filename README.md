@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vikkyreddy08/leetcode/tree/master/0012-integer-to-roman) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Vikkyreddy08/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Vikkyreddy08/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vikkyreddy08/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
