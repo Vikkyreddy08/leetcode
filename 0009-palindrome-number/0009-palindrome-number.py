@@ -1,15 +1,12 @@
-class Solution(object):
-    def isPalindrome(self, x):
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
         rev=0
-        original=x
-        while x>0:
-            last=x%10
+        n=x
+        while n>0:
+            last=n%10
             rev=(rev*10)+last
-            x//=10
-        if original==rev:
+            n//=10
+        if x==rev:
             return True
         else:
-            return False
-
-         
-        
+            return False      
