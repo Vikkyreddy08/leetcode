@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vikkyreddy08/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vikkyreddy08/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vikkyreddy08/leetcode/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Vikkyreddy08/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vikkyreddy08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Vikkyreddy08/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vikkyreddy08/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikkyreddy08/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Vikkyreddy08/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Vikkyreddy08/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikkyreddy08/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
