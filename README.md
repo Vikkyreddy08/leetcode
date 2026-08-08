@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vikkyreddy08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Vikkyreddy08/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Vikkyreddy08/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vikkyreddy08/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Vikkyreddy08/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikkyreddy08/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vikkyreddy08/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
