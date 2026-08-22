@@ -1,14 +1,14 @@
 class Solution:
     def checkDivisibility(self, n: int) -> bool:
-        sum=0
+        sumdigit=0
         product=1
         orginal=n
         while n>0:
             digit=n%10
-            sum=sum+digit
+            sumdigit+=+digit
             product*=digit
             n//=10
-        if orginal % (sum+product)==0:
+        if orginal % (sumdigit+product)==0:
             return True
         return False
         
