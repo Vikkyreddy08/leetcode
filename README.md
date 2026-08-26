@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vikkyreddy08/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vikkyreddy08/leetcode/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vikkyreddy08/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vikkyreddy08/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikkyreddy08/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vikkyreddy08/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikkyreddy08/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vikkyreddy08/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vikkyreddy08/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikkyreddy08/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikkyreddy08/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
