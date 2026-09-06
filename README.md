@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vikkyreddy08/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikkyreddy08/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vikkyreddy08/leetcode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Vikkyreddy08/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vikkyreddy08/leetcode/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vikkyreddy08/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vikkyreddy08/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Vikkyreddy08/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Vikkyreddy08/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vikkyreddy08/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikkyreddy08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
