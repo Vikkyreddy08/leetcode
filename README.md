@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vikkyreddy08/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vikkyreddy08/leetcode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Vikkyreddy08/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Vikkyreddy08/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikkyreddy08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikkyreddy08/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Vikkyreddy08/leetcode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Vikkyreddy08/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Depth-First Search
 |  |
