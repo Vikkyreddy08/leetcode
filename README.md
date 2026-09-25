@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vikkyreddy08/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vikkyreddy08/leetcode/tree/master/0012-integer-to-roman) |
+| [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Vikkyreddy08/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vikkyreddy08/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikkyreddy08/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vikkyreddy08/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Vikkyreddy08/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vikkyreddy08/leetcode/tree/master/0125-valid-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vikkyreddy08/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikkyreddy08/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vikkyreddy08/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vikkyreddy08/leetcode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikkyreddy08/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vikkyreddy08/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikkyreddy08/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Vikkyreddy08/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -364,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
