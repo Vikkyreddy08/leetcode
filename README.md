@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vikkyreddy08/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vikkyreddy08/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Vikkyreddy08/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vikkyreddy08/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vikkyreddy08/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vikkyreddy08/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Vikkyreddy08/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikkyreddy08/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vikkyreddy08/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vikkyreddy08/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vikkyreddy08/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vikkyreddy08/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -441,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vikkyreddy08/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vikkyreddy08/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikkyreddy08/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
