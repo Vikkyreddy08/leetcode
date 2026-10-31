@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikkyreddy08/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vikkyreddy08/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Vikkyreddy08/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vikkyreddy08/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikkyreddy08/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vikkyreddy08/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Vikkyreddy08/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vikkyreddy08/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/Vikkyreddy08/leetcode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Vikkyreddy08/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3665-twisted-mirror-path-count](https://github.com/Vikkyreddy08/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vikkyreddy08/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
