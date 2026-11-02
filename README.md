@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vikkyreddy08/leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Vikkyreddy08/leetcode/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vikkyreddy08/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vikkyreddy08/leetcode/tree/master/0836-rectangle-overlap) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vikkyreddy08/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vikkyreddy08/leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vikkyreddy08/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Vikkyreddy08/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vikkyreddy08/leetcode/tree/master/0015-3sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vikkyreddy08/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikkyreddy08/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
