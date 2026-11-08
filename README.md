@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vikkyreddy08/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikkyreddy08/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Vikkyreddy08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vikkyreddy08/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Vikkyreddy08/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Vikkyreddy08/leetcode/tree/master/1406-stone-game-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Vikkyreddy08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Vikkyreddy08/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vikkyreddy08/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -328,12 +330,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Vikkyreddy08/leetcode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Vikkyreddy08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/Vikkyreddy08/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3665-twisted-mirror-path-count](https://github.com/Vikkyreddy08/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vikkyreddy08/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Vikkyreddy08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Vikkyreddy08/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vikkyreddy08/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Vikkyreddy08/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Vikkyreddy08/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Vikkyreddy08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Vikkyreddy08/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Vikkyreddy08/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vikkyreddy08/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
